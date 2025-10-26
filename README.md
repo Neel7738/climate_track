@@ -38,5 +38,4 @@ It combines **Tkinter (for GUI)**, **Seaborn + Matplotlib (for analysis)**, and 
 
 ---
 
-## 🖼️ Demo Preview
 
